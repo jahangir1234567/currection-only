@@ -168,20 +168,26 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1,Colors Bangla HD
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
-#EXTINF:-1,Discovery SD
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://logoeps.com/wp-content/uploads/2013/01/discovery-channel-.eps-logo-vector.png" tvg-name="Discovery SD 1"  group-title="Bangla",Discovery SD 1
 https://idvd.multitvsolution.com/idvo/discoveryeng_540p/index.m3u8
-#EXTINF:-1,Discovery SD Hind
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://logoeps.com/wp-content/uploads/2013/01/discovery-channel-.eps-logo-vector.png" tvg-name="Discovery SD 2"  group-title="Bangla",Discovery SD 2
 https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
-#EXTINF:-1,TLC HD Hindi
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBDS3EZwfJEa0cOfuq0L5flIMXc8jEQP1Bng&usqp=CAU" tvg-name="TLC HD Hindi"  group-title="Bangla",TLC HD Hindi
 http://idvd.multitvsolution.com/idvo/tlchdhindi.m3u8
-#EXTINF:-1,Discovery Kids
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" tvg-name="Discovery Kids"  group-title="Bangla",Discovery Kids 
 http://idvd.multitvsolution.com/idvo/discoverykidshindi.m3u8
+
 #EXTINF:-1,Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+
 #EXTINF:-1,Sony Aath
 http://visioncable2020.com:25461/Kamrul99/1234590/566
 
-tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl4VzHdCVm3GyOqyEzxrhmvyPiITVTddmZpw&usqp=CAU" tvg-name="Enter 10"  group-title="Bangla",Enter 10
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl4VzHdCVm3GyOqyEzxrhmvyPiITVTddmZpw&usqp=CAU" tvg-name="Enter 10"  group-title="Bangla",Enter 10
 http://visioncable2020.com:25461/Kamrul99/1234590/2654
 
 
