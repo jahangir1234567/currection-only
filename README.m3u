@@ -48,12 +48,15 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://bcdn.bdixsports.live:1935/live/event.stream/index.m3u8
 #EXTINF:-1,Siyatha TV.
 http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
-#EXTINF:-1,Gazi TV  (BDIX15).
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_VO9nALu9kSo8veqnoyn2HfnRlG-zStfNEw&usqp=CAU" tvg-name="G TV 4"  group-title="Bangla",G TV 4
 https://live.sonyplex.com/sonyplex/GaziTv.stream/index.m3u8
-#EXTINF:-1,Gazi TV  (BDIX17).
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_VO9nALu9kSo8veqnoyn2HfnRlG-zStfNEw&usqp=CAU" tvg-name="G TV 5"  group-title="Bangla",G TV 5
 http://103.77.188.27:1935/live/gtv/index.m3u8
-#EXTINF:-1,Gazi TV  (BDIX16).
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_VO9nALu9kSo8veqnoyn2HfnRlG-zStfNEw&usqp=CAU" tvg-name="G TV 6"  group-title="Bangla",G TV 6
 http://103.40.226.94:8080/hls/channel_1.m3u8
+
 #EXTINF:-1,BTV Chattagram (BDIX6).
 http://103.106.2.149:13456/btv_ctg.m3u8
 #EXTINF:-1,BTV (BDIX6).
@@ -100,7 +103,6 @@ https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master.m3u8
 https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwfKHMXs3wEon1FMQXKPeTtex6seen25do8w&usqp=CAU" tvg-name="Sony Aath (jio)"  group-title="Bangla", Sony Aath (jio)
-#EXTINF:-1,
 http://jo123.biz/jweb/m3u8.php?c=Sony_aath&q=600&e=junk.m3u8
 #EXTINF:-1,Colors Bangla (akamai).
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
@@ -178,7 +180,8 @@ http://idvd.multitvsolution.com/idvo/discoverykidshindi.m3u8
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1,Sony Aath
 http://visioncable2020.com:25461/Kamrul99/1234590/566
-#EXTINF:-1,Enter 10
+
+tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl4VzHdCVm3GyOqyEzxrhmvyPiITVTddmZpw&usqp=CAU" tvg-name="Enter 10"  group-title="Bangla",Enter 10
 http://visioncable2020.com:25461/Kamrul99/1234590/2654
 
 
@@ -186,13 +189,13 @@ http://visioncable2020.com:25461/Kamrul99/1234590/2654
 
 
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_VO9nALu9kSo8veqnoyn2HfnRlG-zStfNEw&usqp=CAU" tvg-name="G TV link 1"  group-title="Bangla",G TV link 1 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_VO9nALu9kSo8veqnoyn2HfnRlG-zStfNEw&usqp=CAU" tvg-name="G TV link 1"  group-title="Bangla",G TV 1 
 http://172.17.17.19:8088/hls/01gazitv.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_VO9nALu9kSo8veqnoyn2HfnRlG-zStfNEw&usqp=CAU" tvg-name="G TV link 2"  group-title="Bangla",G TV link 2 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_VO9nALu9kSo8veqnoyn2HfnRlG-zStfNEw&usqp=CAU" tvg-name="G TV link 2"  group-title="Bangla",G TV 2 
 http://103.106.243.163:8989/gazi-tv/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_VO9nALu9kSo8veqnoyn2HfnRlG-zStfNEw&usqp=CAU" tvg-name="G TV link 3"  group-title="Bangla",G TV link 3 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_VO9nALu9kSo8veqnoyn2HfnRlG-zStfNEw&usqp=CAU" tvg-name="G TV link 3"  group-title="Bangla",G TV 3 
 http://acdn.bdixsports.live:1935/live/event360.stream/chunklist_w1437616252.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxwKztAr19AtXTKIlsi5mHDxRluHiV5JNSeA&usqp=CAU" tvg-name="Peace TV Bangla 1"  group-title="Bangla",Peace TV Bangla 1
