@@ -98,7 +98,9 @@ http://103.102.27.172:6464/Channel-2/index.m3u8
 https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master.m3u8
 #EXTINF:-1,Star Jalsha HD (akamai).
 https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
-#EXTINF:-1,Sony Aath (jio.
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwfKHMXs3wEon1FMQXKPeTtex6seen25do8w&usqp=CAU" tvg-name="Sony Aath (jio)"  group-title="Bangla", Sony Aath (jio)
+#EXTINF:-1,
 http://jo123.biz/jweb/m3u8.php?c=Sony_aath&q=600&e=junk.m3u8
 #EXTINF:-1,Colors Bangla (akamai).
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
