@@ -1,13 +1,17 @@
 #EXTM3U
-#EXTINF:-2, tvg-id="New EPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwfKHMXs3wEon1FMQXKPeTtex6seen25do8w&usqp=CAU" tvg-name="Sony Aath (jio)"  group-title="Bangla", Sony Aath (jio)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo=" IMG come" tvg-name="Mokkah TV"  group-title="Bangla",Mokkah TV
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/makkah.stream/live-orgin/makkah.stream/chunks.m3u8. 
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwfKHMXs3wEon1FMQXKPeTtex6seen25do8w&usqp=CAU" tvg-name="Sony Aath (jio)"  group-title="Bangla", Sony Aath (jio)
 http://jo123.biz/jweb/m3u8.php?c=Sony_aath&q=600&e=junk.m3u8
 
-#EXTINF:-2, tvg-id="New EPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwfKHMXs3wEon1FMQXKPeTtex6seen25do8w&usqp=CAU" tvg-name="Sony Aat"  group-title=" Bangla",Sony Aath
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwfKHMXs3wEon1FMQXKPeTtex6seen25do8w&usqp=CAU" tvg-name="Sony Aat"  group-title=" Bangla",Sony Aath
 http://103.205.133.40/hls/sony8.m3u8
-#EXTINF:-2, tvg-id="New EPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwfKHMXs3wEon1FMQXKPeTtex6seen25do8w&usqp=CAU" tvg-name="Sony Aat"  group-title=" Bangla",Sony Aath
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwfKHMXs3wEon1FMQXKPeTtex6seen25do8w&usqp=CAU" tvg-name="Sony Aat"  group-title=" Bangla",Sony Aath
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/29119
 
-#EXTINF:-2, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Jalsha_movies.png" tvg-name="Jalsha Movies"  group-title=" Bangla",Jalsha Movies
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Jalsha_movies.png" tvg-name="Jalsha Movies"  group-title=" Bangla",Jalsha Movies
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3412
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoi3nCKcLZSd2Jvry1S6EiPEmPqzDsNQ0yEA&usqp=CAU" tvg-name="Star Jalsha HD"  group-title="Bangla", Star Jalsha HD
@@ -126,9 +130,6 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo=" IMG come" tvg-name="Madani TV"  group-title="Bangla",Madani TV
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/madnitvbangla/madnibangla_1080p/chunks.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo=" IMG come" tvg-name="Mokkah TV"  group-title="Bangla",Mokkah TV
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/makkah.stream/live-orgin/makkah.stream/chunks.m3u8. 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo=" IMG come" tvg-name="Sony Max hd"  group-title="Bangla",Sony Max TV
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
