@@ -7,10 +7,11 @@ http://103.205.133.40/hls/sony8.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoi3nCKcLZSd2Jvry1S6EiPEmPqzDsNQ0yEA&usqp=CAU" tvg-name="Star Jalsha HD"  group-title="Bangla", Star Jalsha HD
 http://starshare.live:8080/live/878762088/8787620882/23218.m3u8
-#EXTINF:-1,Star Jalsha HD (akamai).
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoi3nCKcLZSd2Jvry1S6EiPEmPqzDsNQ0yEA&usqp=CAU" tvg-name="Star Jalsha HD"  group-title="Bangla", Star Jalsha HD (akamai).
 https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
 
-#EXTINF:-1,Colors Bangla (akamai).
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi1zIthbHQkXcM-W2sF5i0WbvJJ5bxIrhKk9pkWnYagKp__12ZR2epux8&s=10" tvg-name="Colors Bangla"  group-title="Bangla", Colors Bangla (akamai)
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUmSXzGpKgxtnDFQP9V_elH7DAXaYVQG9CXg&usqp=CAU" tvg-name="Duronto TV"  group-title="Bangla",Duronto TV
