@@ -1,5 +1,10 @@
 
 #EXTM3U
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo=" IMG come" tvg-name="Mokkah TV"  group-title="Bangla",Mokkah TV
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/makkah.stream/live-orgin/makkah.stream/chunks.m3u8. 
+
+
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/31k6q9ajx36he7i/ananda-tv-bd.png" group-title="* BDIX19",ANANDA TV HD
 PT1BTzFOVGJ1TTNhdVZIYWo5U2JoVm1jME5uTDJSWFlrNVdZdUYyTEpSRlV1aEdVcEZXTTFjVlkwSjFWaE5uUmsxR01VQjFNT1pWWlhaVVJVTmtTRnBWVFdkMFkyWldlTnBYU3g0a2VsQlRWdzhFVmFsRWVYbGxNNVlrWTZaVVpoOVdSa2RXUVU1a05ScDNaU1pUVkVsMFJQVkVSTmxITzU1RWU0a1dUNVVWUmlCblUzZ1ZlTjFXYjJZVk5qOVNNMFFqT3Q5Mll1UW1ZdmRXWXE1eWRsbG1kNXQyY3cxV1owOXlMNk1IYzBSSGE=
 
