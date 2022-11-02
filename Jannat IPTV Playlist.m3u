@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/31k6q9ajx36he7i/ananda-tv-bd.png" group-title="* BDIX19",S Cricket TV
+https://live-ak.vimeocdn.com:443/exp=1667379756~acl=%2Fbc18b001-6f12-4154-b3af-61723a1bb130%2F%2A~hmac=00eac7b88a93aee2645e9a73b06a47d56b924ee4fe1f0c76d28dcfc14fba5820/bc18b001-6f12-4154-b3af-61723a1bb130/chunklist_b728000.m3u8?max_segments=10
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/31k6q9ajx36he7i/ananda-tv-bd.png" group-title="* BDIX19",ANANDA TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 
